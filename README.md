@@ -3,6 +3,9 @@
 <h3>Descrição</h3>
 <p>O projeto proposto no curso de front-end da Labenu simula um site para o streaming de músicas, onde você pode criar playlists e adicionar músicas do youtube nas playlists e poderem ser reproduzidas dentro do próprio site.</p>
 
+<h3>Link<h3>
+  <a href="http://k2labefy.surge.sh/" targe="_blank">Labefy</a>
+
 <h3>Ferramentas utilizadas</h3>
 <ul>
   <li>Javascript</li>
